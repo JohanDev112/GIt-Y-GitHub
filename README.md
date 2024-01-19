@@ -1,6 +1,6 @@
 # Git y GitHub.
 
-Recurso de apoyo al taller de Git y GitHub.
+Recurso de apoyo al taller de Git y GitHub y no fallar en el intento.
 
 ## Git: Gestor de versiones
 
