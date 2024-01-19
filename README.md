@@ -15,4 +15,11 @@ Git es un software opensource. Fue creado por Linus Torvalds, creador de Linux. 
   <img src="https://jeanmazuelos.com/sites/default/files/styles/large/public/field/image/git_logo.png?itok=ZsP-3--g" hspace="20" width="100" height="100"/>
 </div>
 
+### ¿Qué es un gestor de versiones?
+
+Un gestor de versiones, o también llamado "control de código fuente", se refiere a la gestión sistemática de cambios realizados en el desarrollo de un proyecto a lo largo del tiempo.
+
+<div align="center">
+  <img width="1137" alt="Captura de pantalla 2024-01-18 a la(s) 19 58 11" src="https://github.com/JohanDev112/GIt-Y-GitHub/assets/118022509/b13cab1c-8ffa-4eff-8f92-1dc424773c11">
+</div>
 
