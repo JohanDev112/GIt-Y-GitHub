@@ -20,6 +20,11 @@ Git es un software opensource. Fue creado por Linus Torvalds, creador de Linux. 
 Un gestor de versiones, o también llamado "control de código fuente", se refiere a la gestión sistemática de cambios realizados en el desarrollo de un proyecto a lo largo del tiempo.
 
 <div align="center">
-  <img width="1137" alt="Captura de pantalla 2024-01-18 a la(s) 19 58 11" src="https://github.com/JohanDev112/GIt-Y-GitHub/assets/118022509/b13cab1c-8ffa-4eff-8f92-1dc424773c11">
+  <img width="1024" alt="Captura de pantalla 2024-01-18 a la(s) 20 04 48" src="https://github.com/JohanDev112/GIt-Y-GitHub/assets/118022509/2adfca32-5307-4a94-a7dd-251827720363">
 </div>
 
+### Ventajas de Git hoy en día
+
+  1. Facilidad de trabajar colectivamente.
+  2. Genera flujos de trabajo.
+  3. Importante para el trabajo.
