@@ -42,7 +42,7 @@ Al tener una rama propia, se puede hacer cambios sin necesidad de afectar la ver
 
 Para poder trabajar con este gestor de versiones, lo descargaremos de la página de git, haz clic [aquí](https://git-scm.com/downloads) y te redireccionará al sitio de descarga. Recuerda seleccionar bien tu versión de SO (System Operative/Sistema Operativo).
 
-Para Windows, es recomendado usar los siguientes links, dependiendo de tu máquina:
+Para Windows, es recomendado usar los siguientes links, dependiendo de los componentes de la PC:
 <div align="center">
   <img width="681" alt="Captura de pantalla 2024-01-23 a la(s) 7 13 23" src="https://github.com/JohanDev112/GIt-Y-GitHub/assets/118022509/cc5327cc-4ea4-4c89-9026-d9dec67ae7b6">
 </div>
