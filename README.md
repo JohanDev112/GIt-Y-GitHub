@@ -68,4 +68,4 @@ Una vez tú vas comenzando con el aprendizaje de ambas herramientas debes aprend
 </div>
 
 Para darle más dinamismo al taller, te traigo la siguiente página que estaremos usando para entender cómo se comportan las branch dentro de Git en una manera visual y de forma que puedas aprender el CLI de Git al mismo tiempo.
-Dale click [aquí](learngitbranching.js.org) para redirigirte a la página.
+Dale click [aquí](https://www.learngitbranching.js.org) para redirigirte a la página.
