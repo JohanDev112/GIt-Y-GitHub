@@ -66,3 +66,6 @@ Una vez tú vas comenzando con el aprendizaje de ambas herramientas debes aprend
 <div align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ShHSfi-a--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/1N2U2i2Z2C16/Image%25202018-04-11%2520at%252012.47.23%2520PM.png" width="600"/>
 </div>
+
+Para darle más dinamismo al taller, te traigo la siguiente página que estaremos usando para entender cómo se comportan las branch dentro de Git en una manera visual y de forma que puedas aprender el CLI de Git al mismo tiempo.
+Dale click [aquí](learngitbranching.js.org) para redirigirte a la página.
