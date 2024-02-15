@@ -2,6 +2,8 @@
 
 Recurso de apoyo al taller de Git y GitHub y no fallar en el intento.
 
+[!ALERT]
+
 ## Git: Gestor de versiones
 
 Git es un gestor de versiones de la nube que permite tener un historial sobre el proyecto que se esté manejando y no perder ninguno de los cambios que se hayan realizando a lo largo de su creación.
@@ -29,7 +31,7 @@ Un gestor de versiones, o también llamado "control de código fuente", se refie
   2. Genera flujos de trabajo.
   3. Importante para el trabajo.
 
-### Cualidades de GIt
+### Cualidades de Git
 
 Git tiene una serie de funcionalidades que le permite trabajar en un entonro controlado y estable mientras se utilice de manera correcta.
   1. Una de las funcionalidades más destacadas son las "branch" (ramas).
@@ -45,4 +47,22 @@ Para poder trabajar con este gestor de versiones, lo descargaremos de la página
 Para Windows, es recomendado usar los siguientes links, dependiendo de los componentes de la PC:
 <div align="center">
   <img width="681" alt="Captura de pantalla 2024-01-23 a la(s) 7 13 23" src="https://github.com/JohanDev112/GIt-Y-GitHub/assets/118022509/cc5327cc-4ea4-4c89-9026-d9dec67ae7b6">
+</div>
+
+## GitHub
+
+GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) el cual es Git. Éste permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
+
+<div align="center">
+  <img src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" width="380"/>
+</div>
+
+## ¿Cómo puedo entender Git y GitHub?
+
+Una vez tú vas comenzando con el aprendizaje de ambas herramientas debes aprender los comandos básicos. En esta ocasión lo entenderemos de dos maneras:
+1. Gráfica e interactiva: Para aprender las funcionalidades de Git y cómo se utiliza podemos usar el software [GitHub Desktop](https://desktop.github.com/). Para instalarlo sólo dale click al enlace previo.
+2. Mediante la CLI (consola): Para empezar a trabajar con Git y poder subir los trabajos a tu cuenta de GitHub deberemos usar ciertos comandos para poder interactuar con nuestro sistema y subir los cambios entendiendo su funcionalidad desde la manera más primitiva que tiene Git.
+
+<div align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ShHSfi-a--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/1N2U2i2Z2C16/Image%25202018-04-11%2520at%252012.47.23%2520PM.png" width="600"/>
 </div>
