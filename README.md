@@ -2,7 +2,6 @@
 
 Recurso de apoyo al taller de Git y GitHub y no fallar en el intento.
 
-[!ALERT]
 
 ## Git: Gestor de versiones
 
